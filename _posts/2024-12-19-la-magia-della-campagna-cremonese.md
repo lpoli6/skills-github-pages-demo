@@ -4,7 +4,7 @@ title: "La Magia della Campagna Cremonese: Una Storia di Galline e Sorrisi"
 date: 2024-12-19
 categories: [stories, countryside, cremona]
 tags: [cremona, farming, countryside, italy]
-author: Solarolo Monasterolo
+author: Sconosciuto
 description: "Una storia sulla vita nella campagna cremonese, incentrata su un particolare allevamento di galline a Solarolo Monasterolo."
 ---
 
