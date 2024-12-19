@@ -8,8 +8,6 @@ author: Solarolo Monasterolo
 description: "Una storia sulla vita nella campagna cremonese, incentrata su un particolare allevamento di galline a Solarolo Monasterolo."
 ---
 
-# La Magia della Campagna Cremonese: Una Storia di Galline e Sorrisi
-
 Nella dolce pianura cremonese, dove il Po scorre pigro come un pensionato dopo il pranzo della domenica, si nascondono storie che profumano di terra buona e tradizione. Oggi vi porto in un angolo speciale di questo paradiso agricolo, precisamente a Solarolo Monasterolo, dove le galline cantano più forte delle cicale e dove due personaggi hanno creato quello che gli abitanti chiamano affettuosamente "Il Regno del Pollame Felice".
 
 Giordano Gandolfi e sua moglie Franca Minuti non sono mai stati di quelli che amano stare con le mani in mano. "Le mani in mano le tengono solo quelli che non hanno mai accarezzato una gallina", dice sempre Giordano con quel suo sorriso saggio da nonno. Nel 1975, quando altri sognavano di trasferirsi in città, loro decisero di trasformare il vecchio podere di famiglia in un allevamento di galline. Non uno qualsiasi, però.
